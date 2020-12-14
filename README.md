@@ -22,3 +22,11 @@ terraform plan
 
 
 ## 実装メモ
+
+- resourceが宣言できる状態にした
+- resourceの変更を検知するためのsetIdを追加した
+- resourceの更新失敗時に、ハンドリングができる状態にした
+
+## やってみたい
+
+- 適当なapiで実践
