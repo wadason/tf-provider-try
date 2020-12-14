@@ -29,4 +29,6 @@ terraform plan
 
 ## やってみたい
 
+- 下記を一通りやる
+- https://www.terraform.io/docs/extend/how-terraform-works.html
 - 適当なapiで実践
