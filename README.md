@@ -19,3 +19,6 @@ terraform plan
 ## TODO
 
 - [ ] 簡単なapiを叩いてみる
+
+
+## 実装メモ

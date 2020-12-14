@@ -6,6 +6,7 @@ import (
 
 func Provider() *schema.Provider {
 	return &schema.Provider{
+		// terraformのresourceとの関連づけを行っている
 		ResourcesMap: map[string]*schema.Resource{
 			"example_server": resourceServer(),
 		},
